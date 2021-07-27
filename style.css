@@ -10,7 +10,7 @@ h1 {
 
 p {
     font-size: 18px;
-    /* Cu font-weight setam grosimea font-ului (400 = bold). */
+    /* Cu font-weight setam grosimea font-ului (400 = regular; 700 = bold). */
     font-weight: 400;
     /* Inaltimea textului este data de line-height. */
     line-height: 20px;
